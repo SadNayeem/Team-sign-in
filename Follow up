@@ -729,8 +729,6 @@ int main()
 
             displayMeritPosition(students, n,ID);
 
-             printf("|___________|_________|______________|________|\n");
-
             printf("\n");
             printf("\n");
 
